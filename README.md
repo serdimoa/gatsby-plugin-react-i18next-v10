@@ -1,4 +1,4 @@
-# gatsby-plugin-i18next-v10
+# gatsby-plugin-react-i18next-v10
 > [Gatsby](https://github.com/gatsbyjs/gatsby) plugin that provides i18n support.
 
 ## Installation
