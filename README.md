@@ -3,7 +3,7 @@
 
 ## Installation
 ```sh
-  npm install --save gatsby-plugin-react-i18next-v10
+  npm install --save gatsby-plugin-modern-react-i18next
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ Edit `gatsby-config.js`
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-plugin-react-i18next-v10`,
+      resolve: `gatsby-plugin-modern-react-i18next`,
       options: {
         // Add any options here
       },
