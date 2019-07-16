@@ -38,7 +38,7 @@
     "@babel/plugin-proposal-class-properties": "^7.4.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
     "@babel/preset-react": "^7.0.0",
-    "gatsby": "^2.0.31",
+    "gatsby": "^2.13.25",
     "react": "^16.6.0",
     "react-dom": "^16.6.0"
   }
